@@ -1,0 +1,1 @@
+SmartCards: https://github.com/danni/python-pkcs11/blob/master/docs/opensc.rst

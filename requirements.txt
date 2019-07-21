@@ -1,0 +1,11 @@
+python-pkcs11
+cryptography
+pem
+pyOpenSSL
+sockets
+diffiehellman
+requests
+flask
+jsonschema
+PyKCS11
+pyCrypto
