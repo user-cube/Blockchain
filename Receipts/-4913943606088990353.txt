@@ -1,0 +1,1 @@
+{"uuid": "6e2a4954bc92c3ba8221319ed04ee1c0a7b0c81c6cc719f0a2cda868", "auction_id": 1239044974295764207, "amount": 2321424, "time": 1548876941.0, "proof": 23}
